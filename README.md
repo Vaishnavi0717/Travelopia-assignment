@@ -29,11 +29,13 @@
 
 💻 **Usage**
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/travelopia-website.git
-cd travelopia-website
+<div>
+  <button onclick="copyToClipboard('#copy-bash')">Copy Bash Commands</button>
+  <textarea id="copy-bash" style="display: none;">
+  git clone https://github.com/your-username/travelopia-website.git
+  cd travelopia-website
+  </textarea>
+</div>
 
 ### Open in a Web Browser:
 
