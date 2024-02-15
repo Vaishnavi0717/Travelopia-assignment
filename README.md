@@ -41,3 +41,34 @@ Open index.html in your preferred web browser to explore the Travelopia website.
 ### Experience Travelopia:
 
 Navigate through the website to discover its features, immerse yourself in captivating visuals, and enjoy the interactive elements designed to inspire wanderlust.
+
+
+___
+
+### Screenshots
+
+* Home Page:-
+  
+![image]()
+
+* Alert Feature:-
+  
+![image]()
+
+* Animation Features:-
+  
+![image]()
+
+![image]()
+
+![image]()
+
+
+
+## Creating A Pull Request
+Fork the Project
+* Create your Feature Branch (git checkout -b feature/AmazingFeature)
+* Commit your Changes (git commit -m 'Add some AmazingFeature')
+* Push to the Branch (git push origin feature/AmazingFeature)
+* Open a Pull Request
+
