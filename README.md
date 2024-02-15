@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/travelopia-website/main/assets/travelopia-logo.png" alt="Travelopia Logo">
+  <img src=""C:\Users\vaish\Pictures\Screenshots\Screenshot (18).png"" alt="Travelopia Logo">
 </p>
 <h1 align="center">Travelopia Website</h1>
 <p align="center">
