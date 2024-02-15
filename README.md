@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/your-username/travelopia-website.git
-cd travelopia-website
+cd travelopia-website```
 
 
 ### Open in a Web Browser:
