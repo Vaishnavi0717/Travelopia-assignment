@@ -13,7 +13,7 @@
 </p>
 
 🚀 Features
-Sleek Header Navigation: Discover effortless navigation with carefully curated links for "Work With Us", "About Us", and "Home".
+* Sleek Header Navigation: Discover effortless navigation with carefully curated links for "Work With Us", "About Us", and "Home".
 
 Engaging Main Section: Immerse yourself in stunning visuals with a background image that transports you to exotic destinations. A well-crafted title and an inviting call-to-action button encourage exploration.
 
