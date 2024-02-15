@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\vaish\Pictures\Screenshots\Screenshot (18).png"" alt="Travelopia Logo">
+  <img src="https://www.drupal.org/files/styles/grid-4-2x/public/travelopia_logo.png?itok=ljzwrdLC" alt="Travelopia Logo">
 </p>
 <h1 align="center">Travelopia Website</h1>
 <p align="center">
