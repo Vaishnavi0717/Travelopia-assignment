@@ -12,7 +12,7 @@
   <a href="#license">License</a>
 </p>
 
-🚀 #Features#
+🚀 **Features**
 * Sleek Header Navigation: Discover effortless navigation with carefully curated links for "Work With Us", "About Us", and "Home".
 
 * Engaging Main Section: Immerse yourself in stunning visuals with a background image that transports you to exotic destinations. A well-crafted title and an inviting call-to-action button encourage exploration.
@@ -25,13 +25,13 @@
 
 * Eye-catching Animations: Delight in subtle yet impactful CSS animations that enhance user interactions, from hover effects on links to smooth transitions on buttons.
 
-💻 Usage
-Clone the Repository:
+  
 
-bash
-Copy code
-git clone https://github.com/your-username/travelopia-website.git
-cd travelopia-website
+💻 **Usage**
+Clone the Repository:
+  `code(git clone https://github.com/your-username/travelopia-website.git
+cd travelopia-website)`
+
 Open in a Web Browser:
 
 Open index.html in your preferred web browser to explore the Travelopia website.
