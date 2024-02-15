@@ -50,6 +50,7 @@ ___
 ### Screenshots
 
 **Home Page**:-
+* The homepage of the Travelopia website features a dynamic header navigation, a captivating main section with a call-to-action button triggering an alert box and text-to-speech synthesis, an informative footer with social media links, all designed with responsive CSS animations for an engaging user experience.
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(19).png)
 
