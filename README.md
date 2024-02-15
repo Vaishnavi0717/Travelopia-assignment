@@ -49,15 +49,16 @@ ___
 
 ### Screenshots
 
-* Home Page:-
+**Home Page**:-
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(19).png)
 
-* Alert Feature:-
+**Alert and Audio Effect Feature**:-
+* The alert box functionality on the Travelopia website combines JavaScript for dynamic element creation and event handling, CSS for styling and animations, and the text-to-speech synthesis API for spoken feedback, providing an engaging and interactive user experience.
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(22).png)
 
-*** Animation Features:-
+**Animation Features**:-
 * The Travelopia website uses CSS keyframe animations, transition effects, and JavaScript-triggered animations to create engaging visual effects such as button hover transitions, continuous background animation, and fade-in appearance for alerts.
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(21).png)
