@@ -12,8 +12,7 @@
   <a href="#license">License</a>
 </p>
 
-Deployed Link:
-[Travelopia](https://65cde0a0ad5f4ba0a8153b6b--inspiring-duckanoo-05087d.netlify.app/)
+Checkout the Live Website [Here](https://65cde0a0ad5f4ba0a8153b6b--inspiring-duckanoo-05087d.netlify.app/)
 
 🚀 **Features**
 * Sleek Header Navigation: Discover effortless navigation with carefully curated links for "Work With Us", "About Us", and "Home".
