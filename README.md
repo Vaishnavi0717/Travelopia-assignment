@@ -35,10 +35,12 @@
 git clone https://github.com/your-username/travelopia-website.git
 cd travelopia-website
 
-Open in a Web Browser:
+
+### Open in a Web Browser:
 
 Open index.html in your preferred web browser to explore the Travelopia website.
 
-Experience Travelopia:
+
+### Experience Travelopia:
 
 Navigate through the website to discover its features, immerse yourself in captivating visuals, and enjoy the interactive elements designed to inspire wanderlust.
