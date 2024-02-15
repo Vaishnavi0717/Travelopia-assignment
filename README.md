@@ -25,7 +25,7 @@
 
 * Eye-catching Animations: Delight in subtle yet impactful CSS animations that enhance user interactions, from hover effects on links to smooth transitions on buttons.
 
-  
+  ___
 
 💻 **Usage**
 
