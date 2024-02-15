@@ -57,8 +57,8 @@ ___
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(22).png)
 
-* Animation Features:-
-The Travelopia website uses CSS keyframe animations, transition effects, and JavaScript-triggered animations to create engaging visual effects such as button hover transitions, continuous background animation, and fade-in appearance for alerts.
+*** Animation Features:-
+* The Travelopia website uses CSS keyframe animations, transition effects, and JavaScript-triggered animations to create engaging visual effects such as button hover transitions, continuous background animation, and fade-in appearance for alerts.
   
 ![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(21).png)
 
