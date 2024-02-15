@@ -49,20 +49,17 @@ ___
 
 * Home Page:-
   
-![image]()
+![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(19).png)
 
 * Alert Feature:-
   
-![image]()
+![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(22).png)
 
 * Animation Features:-
   
-![image]()
+![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(21).png)
 
-![image]()
-
-![image]()
-
+![image](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(20).png)
 
 
 ## Creating A Pull Request
