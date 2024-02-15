@@ -13,7 +13,7 @@
 </p>
 
 Deployed Link:
-![Click Here](https://65cde0a0ad5f4ba0a8153b6b--inspiring-duckanoo-05087d.netlify.app/)
+[Travelopia](https://65cde0a0ad5f4ba0a8153b6b--inspiring-duckanoo-05087d.netlify.app/)
 
 🚀 **Features**
 * Sleek Header Navigation: Discover effortless navigation with carefully curated links for "Work With Us", "About Us", and "Home".
