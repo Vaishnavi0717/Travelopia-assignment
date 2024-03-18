@@ -1,17 +1,24 @@
+/* General Styles */
 body, html {
   margin: 0;
   padding: 0;
   height: 100vh;
-  overflow: hidden; 
-  /* font-family: "railway",sans-serif; */
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-i{
+
+
+/* Link Styles */
+i {
   color: black;
 }
-i:hover{
+
+i:hover {
   color: red;
 }
+
+
+/* Header and Footer */
 header, footer {
   height: 100px;
   background-color: white;
@@ -20,14 +27,19 @@ header, footer {
   line-height: 100px;
 }
 
-footer p{
-color: black;
-padding: 0;
-align-items: end;
-line-height: 20px;
-animation: fadeIn 1s forwards;
-animation-delay: 0.5s;
+
+/* Footer Styles */
+footer p {
+  color: black;
+  padding: 0;
+  align-items: end;
+  line-height: 20px;
+  animation: fadeIn 1s forwards;
+  animation-delay: 0.5s;
 }
+
+
+/* Animation */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -37,42 +49,39 @@ animation-delay: 0.5s;
   }
 }
 
-footer .div1{
-text-align: center;
-position: relative;
+
+/* Footer Divisions */
+footer .div1 {
+  text-align: center;
+  position: relative;
 }
-footer .div1 .div2{
-position: absolute;
+
+footer .div1 .div2 {
+  position: absolute;
   top: 75%;
   left: 80%;
-  transform: translate(-50%, -50%);   
+  transform: translate(-50%, -50%);
 }
 
+
+/* Header Links */
 header a {
-color: black;
-text-decoration: none;
-margin: 0 20px;
-opacity: 0;
-animation: fadeIn 1s forwards;
-animation-delay: 0.5s;
-float: right;
-transition: color 0.3s ease
-
+  color: black;
+  text-decoration: none;
+  margin: 0 20px;
+  opacity: 0;
+  animation: fadeIn 1s forwards;
+  animation-delay: 0.5s;
+  float: right;
+  transition: color 0.3s ease;
 }
 
-a:hover{
+a:hover {
   color: red;
 }
 
-@keyframes fadeIn {
-from {
-  opacity: 0;
-}
-to {
-  opacity: 1;
-}
-}
 
+/* Main Content */
 main {
   position: relative;
   height: calc(100% - 200px);
@@ -126,16 +135,20 @@ main::before {
 }
 
 .content button:hover {
- 
   background-image: linear-gradient(to right, blue, indigo, violet);
-animation:slidebg 5s linear infinite;
+  animation: slidebg 5s linear infinite;
 }
+
+
+/* Background Animation */
 @keyframes slidebg {
   to {
-    background-position:20vw;
+    background-position: 20vw;
   }
 }
 
+
+/* Alert Box */
 .alert-box {
   position: fixed;
   top: 50%;
@@ -169,103 +182,107 @@ animation:slidebg 5s linear infinite;
 
 .alert-box button:hover {
   background-image: linear-gradient(to right, blue, indigo, violet);
-  animation:slidebg 5s linear infinite;
-}
-@keyframes slidebg {
-  to {
-    background-position:20vw;
-  }
+  animation: slidebg 5s linear infinite;
 }
 
+
+/* Media Queries and responsiveness*/
 @media only screen and (max-width: 600px) {
   .content h1 {
-      font-size: 30px;
+    font-size: 30px;
   }
 
   .content button {
-      font-size: 20px;
+    font-size: 20px;
   }
 
   .alert-box {
-      padding: 20px;
-      max-width: 90%;
+    padding: 20px;
+    max-width: 90%;
   }
 
   .alert-box h2 {
-      font-size: 30px; 
-      margin-bottom: 15px;
+    font-size: 30px; 
+    margin-bottom: 15px;
   }
 
   .alert-box button {
-      padding: 15px; 
-      font-size: 20px; 
+    padding: 15px; 
+    font-size: 20px; 
   }
-  header a{
-      font-size: 15px; 
+  
+  header a {
+    font-size: 15px; 
   }
-  footer .div1 p:nth-child(1){
-      display: none;
+  
+  footer .div1 p:nth-child(1) {
+    display: none;
   }
-  footer .div1 p:nth-child(2){
+  
+  footer .div1 p:nth-child(2) {
     font-size: 15px;
-}
-  footer .div2{
-   margin-top: 30px;
+  }
+  
+  footer .div2 {
+    margin-top: 30px;
     display: flex;
   }
-  .div2 a{
-   margin: 2px;
+  
+  .div2 a {
+    margin: 2px;
   }
 }
 
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
   .content h1 {
-      font-size: 40px; 
+    font-size: 40px; 
   }
 
   .content button {
-      font-size: 22px; 
+    font-size: 22px; 
   }
 
   .alert-box {
-      max-width: 70%;
+    max-width: 70%;
   }
 
   .alert-box h2 {
-      font-size: 40px; 
+    font-size: 40px; 
   }
 
   .alert-box button {
-      padding: 15px; 
-      font-size: 25px; 
+    padding: 15px; 
+    font-size: 25px; 
   }
-  header a{
-      font-size: 20px;
+  
+  header a {
+    font-size: 20px;
   }
 }
 
 @media only screen and (min-width: 1025px) {
   .content h1 {
-      font-size: 50px;
+    font-size: 50px;
   }
 
   .content button {
-      font-size: 25px; 
+    font-size: 25px; 
   }
 
   .alert-box {
-      max-width: 60%;
+    max-width: 60%;
   }
 
   .alert-box h2 {
-      font-size: 40px; 
+    font-size: 40px; 
   }
 
   .alert-box button {
-      padding: 15px; 
-      font-size: 25px; 
+    padding: 15px; 
+    font-size: 25px; 
   }
-  header a{
-      font-size: 15px;
+  
+  header a {
+    font-size: 15px;
   }
 }

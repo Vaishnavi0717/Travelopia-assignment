@@ -6,13 +6,16 @@ function showAlert() {
     alertBox.innerHTML = "<h2>Hello, World</h2><button onclick='hideAlert()'>Close</button>";
     document.body.appendChild(alertBox);
 
+
     // Play the audio
     const greeting = new SpeechSynthesisUtterance('Hello, World');
     window.speechSynthesis.speak(greeting);
 
+
     // Hide content
     document.querySelector('.content').style.display = 'none';
   }
+  
     //hide alert
   function hideAlert() {
     var alertBox = document.querySelector(".alert-box");
