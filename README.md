@@ -1,6 +1,13 @@
 # Travelopia
 
+
+<p align="center">
+  <img src="https://www.drupal.org/files/travelopia_logo.png" alt="Project Logo" width="300" height="300">
+</p>
+
+<p align="center">
 Travelopia is a fictional company website project with a focus on travel and adventure.
+</p>
 
 <p align="center">
   <a href="#about">About</a> •
