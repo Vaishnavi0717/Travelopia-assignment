@@ -48,7 +48,7 @@ Check out the deployed version of project [Here]()
 ## Screenshots
 
 ### Homepage
-
+- The homepage of Travelopia welcomes visitors with captivating visuals, interactive elements like an alert pop-up, and intuitive navigation, guiding users to explore the company's offerings and inspiring them to embark on memorable travel adventures.
 ![Homepage](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(19).png)
 
 ## Demo
