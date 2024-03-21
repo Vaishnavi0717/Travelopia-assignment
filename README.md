@@ -18,6 +18,7 @@ Travelopia is a fictional company website project with a focus on travel and adv
   <a href="#license">License</a>
 </p>
 
+---
 
 ## 📚 About
 
