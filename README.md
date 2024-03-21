@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://www.drupal.org/files/travelopia_logo.png" alt="Project Logo" width="300" height="300">
+  <img src="https://www.drupal.org/files/styles/grid-4-2x/public/travelopia_logo.png?itok=ljzwrdLC" alt="Project Logo" width="300" height="300">
 </p>
 
 <p align="center">
