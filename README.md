@@ -45,7 +45,7 @@ Check out the deployed version of project [Here]()
 ***Interactive Alerts***: Engaging alert boxes with interactive functionalities add an element of surprise and delight for users, enhancing their overall browsing experience.
 
 
-## Screenshots
+## 🎥 Screenshots
 
 ### Home
 - The homepage of Travelopia welcomes visitors with captivating visuals, interactive elements like an alert pop-up, and intuitive navigation, guiding users to explore the company's offerings and inspiring them to embark on memorable travel adventures.
@@ -59,10 +59,6 @@ Check out the deployed version of project [Here]()
 - This project utilizes animation effects on elements like buttons to enhance visual appeal and responsiveness, complemented by audio effects such as speech synthesis for engaging interactions, elevating the overall user experience.
 ![Homepage](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(20).png)
 
-
-## Demo
-
-A live demo of the project can be found [here](#).
 
 ## 💻 Tools & Technologies used
 
