@@ -2,13 +2,15 @@
 
 Travelopia is a fictional company website project with a focus on travel and adventure.
 
-## Table of Contents
-
-- [About](#about)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#features">Features</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
 ## About
 
