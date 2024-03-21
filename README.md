@@ -44,6 +44,13 @@ Check out the deployed version of project [Here]()
 
 ***Interactive Alerts***: Engaging alert boxes with interactive functionalities add an element of surprise and delight for users, enhancing their overall browsing experience.
 
+
+## Screenshots
+
+### Homepage
+
+![Homepage](https://github.com/Vaishnavi0717/Travelopia-assignment/blob/main/images/Screenshot%20(19).png)
+
 ## Demo
 
 A live demo of the project can be found [here](#).
