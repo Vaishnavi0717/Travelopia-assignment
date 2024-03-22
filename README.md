@@ -27,7 +27,7 @@ Travelopia is a captivating website project designed to showcase the offerings o
 
 ## 🚀 Deployed link
 
-Check out the deployed version of project [Here]()
+Check out the deployed version of project [Here](https://travelopia-two.vercel.app/)
 
 ## ✨ Features
 
@@ -71,4 +71,4 @@ Check out the deployed version of project [Here]()
 
 1. Clone this repository:
    ```bash
-   git clone .git
+   git clone https://github.com/Vaishnavi0717/Travelopia-assignment.git
